@@ -1,6 +1,6 @@
 # Teste Caixa Cinza com Supabase e Postman
 
-**Aluno:** André
+**Aluno:** André Borges
 **Disciplina:** UX/UI e Testes de Software
 **Atividade:** Atividade Individual — Teste Caixa Cinza com Supabase e Postman
 
